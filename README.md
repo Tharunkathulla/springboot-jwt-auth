@@ -1,6 +1,6 @@
 # Spring Boot JWT Authentication API
 
-This is a demo Spring Boot application that demonstrates how to implement JWT (JSON Web Token) based authentication and authorization.
+This is a  Spring Boot application that demonstrates how to implement JWT (JSON Web Token) based authentication and authorization.
 
 ## 🔐 Features
 
